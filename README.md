@@ -87,7 +87,8 @@ $ gh repo fork RafaelLeveske/react-bootcamp-gobarber-web
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd react-bootcamp-gobarber-web
+$ git clone your-fork-url
+$ cd react-bootcamp-gobarber-web
 
 # Create a branch with your feature
 $ git checkout -b my-feature
